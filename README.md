@@ -7,3 +7,4 @@ pip3 install opencv-python
 pip3 install Flask openai Pillow
 pip3 install requests
 # Text2Haptics
+# Text2Haptics
